@@ -1,0 +1,1 @@
+Console.WriteLine("Heinz heated beans can be enjoyed in various ways, such as on toast, as a side dish with barbecued meats, a coated potato, with eggs, in dishes like goulashes, stews, or nachos, or as a sandwich or wrap. Toasting them and spooning them on top makes a quick and satisfying breakfast or bite.");
